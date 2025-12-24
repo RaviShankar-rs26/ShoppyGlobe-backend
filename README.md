@@ -5,7 +5,7 @@ This repository contains the **backend API** for the ShoppyGlobe e-commerce appl
 
 > **Author:**Ravi Shankar
 > **Email:** ravishingh90104@gmail.com
-> **GitHub Repo:** [https://github.com/ShivamMishraa25/backendShoppyGlobe]
+> **GitHub Repo:** https://github.com/RaviShankar-rs26/ShoppyGlobe-backend
 > **Course:** Part of Internshala’s PGC Full Stack Development Program
 
 ---
