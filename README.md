@@ -81,8 +81,7 @@ backendShoppyGlobe/
 ## 🚀 Getting Started Locally
 
 ```bash
-git clone https://github.com/ShivamMishraa25/backendShoppyGlobe.git
-cd backendShoppyGlobe
+https://github.com/RaviShankar-rs26/ShoppyGlobe-backend.git
 npm install
 npm start
 ```
